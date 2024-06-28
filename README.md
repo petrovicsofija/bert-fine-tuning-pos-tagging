@@ -1,2 +1,2 @@
-# transformers-tuning-pos-tagging
+# transformers-fine-tuning-pos-tagging
 
